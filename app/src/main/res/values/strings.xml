@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">पिंपरी चिंचवड महानगरपालिका</string>
+
+    <string name="btn_Submit">Submit</string>
+    <string name="str_internet_title">No Internet Connection.</string>
+    <string name="str_internet_message">You don\'t have internet connection.</string>
+    <string name="txt_employee_pass">Enter Password Here</string>
+
+    <string name="lattitude">Lattitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="token">Token No.</string>
+    <string name="discription">Discription</string>
+
+</resources>
